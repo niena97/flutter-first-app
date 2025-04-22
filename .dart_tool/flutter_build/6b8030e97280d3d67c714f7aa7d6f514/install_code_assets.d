@@ -1,0 +1,1 @@
+ /Users/nina/Documents/GitHub/flutter-first-app/.dart_tool/flutter_build/6b8030e97280d3d67c714f7aa7d6f514/native_assets.json: 

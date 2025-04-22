@@ -1,0 +1,10 @@
+version: "Apple Swift version 6.1 (swiftlang-6.1.0.110.21 clang-1700.0.13.3)"
+options: "e1079c2a9460abf4abc8564b09b7d7a03ffaa062fd163e3751527b4add1dcaf2"
+build_start_time: [1745292965, 475363000]
+build_end_time: [1745292974, 430595000]
+inputs:
+  ? "/Users/nina/Documents/GitHub/flutter-first-app/build/macos/Build/Intermediates.noindex/Runner.build/Release/Runner.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1745292965, 88931871]
+  "/Users/nina/Documents/GitHub/flutter-first-app/macos/Flutter/GeneratedPluginRegistrant.swift": [1745292941, 432392295]
+  "/Users/nina/Documents/GitHub/flutter-first-app/macos/Runner/AppDelegate.swift": [1745219565, 248010326]
+  "/Users/nina/Documents/GitHub/flutter-first-app/macos/Runner/MainFlutterWindow.swift": [1745219565, 249553538]
